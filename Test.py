@@ -7,4 +7,4 @@ C = []
 for i in A:
     C.append(B - i)
 
-print(C)
+print("The value of C is : ", C)
