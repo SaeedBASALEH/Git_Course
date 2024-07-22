@@ -7,4 +7,4 @@ C = []
 for i in A:
     C.append(B - i)
 
-print("The value of C is : ", C)
+print("The value of C is euqal to : ", C)
